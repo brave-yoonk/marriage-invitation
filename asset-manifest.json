@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marriage-invitation/static/css/main.073c9b0a.css",
+    "main.js": "/marriage-invitation/static/js/main.bee98fd0.js",
+    "static/js/787.a75adff5.chunk.js": "/marriage-invitation/static/js/787.a75adff5.chunk.js",
+    "static/media/logo.svg": "/marriage-invitation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/marriage-invitation/index.html",
+    "main.073c9b0a.css.map": "/marriage-invitation/static/css/main.073c9b0a.css.map",
+    "main.bee98fd0.js.map": "/marriage-invitation/static/js/main.bee98fd0.js.map",
+    "787.a75adff5.chunk.js.map": "/marriage-invitation/static/js/787.a75adff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bee98fd0.js"
+  ]
+}
